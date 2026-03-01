@@ -5,7 +5,7 @@
 
 body {
     width: 100%;
-    height: dvh;
+    height: 100dvh;
     background-image: url("hummingbird_hibiscus_moment-full.jpg");
     justify-content: center;
     align-items: center;
@@ -14,7 +14,7 @@ body {
 
 .container {
     width: 1000px;
-    height: dvh;
+    height: 100dvh;
     border-radius: 30px;
     background-color: rgb(58, 175, 58);
     margin: auto;
