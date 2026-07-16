@@ -43,7 +43,7 @@ h1 {
 P {
     font-size: 20px;
     font-family: Arial, Helvetica, sans-serif;
-    color: white;
+    color: green;
     padding-top: 20px;
     border-radius: 30px;
     padding: 20px;
@@ -83,7 +83,7 @@ P {
 
     p {
         font-size: 20px;
-        color: rgb(97, 11, 155);
+        color: green;
         font-family: Arial, Helvetica, sans-serif;
 
     }
